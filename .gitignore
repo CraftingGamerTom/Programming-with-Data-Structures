@@ -1,0 +1,7 @@
+# Ignore eclipse stuff
+.metadata/
+RemoteSystemsTempFiles/
+
+# Ignore uneeded
+*.exe
+submissions/*
