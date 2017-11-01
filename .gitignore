@@ -5,3 +5,4 @@ RemoteSystemsTempFiles/
 # Ignore uneeded
 *.exe
 submissions/*
+*.xml
