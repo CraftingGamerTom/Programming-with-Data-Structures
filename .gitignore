@@ -7,3 +7,9 @@ RemoteSystemsTempFiles/
 submissions/*
 *.xml
 *.zip
+
+# Settings
+*.settings.xml
+*.cproject
+*.project
+*.xml
